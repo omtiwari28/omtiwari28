@@ -44,4 +44,4 @@ Currently seeking entry-level opportunities in Artificial Intelligence and Data 
 I am currently expanding my expertise in Agentic AI and building automated workflows. I welcome opportunities to collaborate on open-source AI projects or discuss data strategy.
 
 * **Location:** Noida, Uttar Pradesh, India
-* **Portfolio & Code:** [Explore my repositories below](#)
+* **Portfolio & Code:** [Explore my repositories below]
